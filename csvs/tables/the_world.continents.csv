@@ -1,0 +1,8 @@
+continent_id,continent_name,population_estimate,type,un_countries,defacto_autonomies,external_subregions,have_visited
+1001,North America,592296233,Continent,23,28,44,1
+1002,Europe,747636045,Continent,46,53,55,1
+1003,Asia,4560667108,Continent,46,52,52,1
+1004,South America,434254119,Continent,12,12,17,0
+1005,Africa,1275920972,Continent,54,55,66,0
+1006,Oceania,45857655,Continent,14,19,28,0
+1007,Antarctica,3200,Continent,0,0,4,0

@@ -1,0 +1,14 @@
+ca_id,ca_name,ca_abbr,type,capital,region_id,population_estimate,have_visited,visit_order
+1,Alberta,AB,Province,Edmonton,1,4262635,0,0
+2,British Columbia,BC,Province,Victoria,1,5000879,0,0
+3,Manitoba,MB,Province,Winnipeg,1,1342153,0,0
+4,New Brunswick,NB,Province,Fredericton,1,775610,0,0
+5,Newfoundland and Labrador,NL,Province,St. John's,1,510550,0,0
+6,Northwest Territories,NT,Territory,Yellowknife,1,41070,0,0
+7,Nova Scotia,NS,Province,Halifax,1,969383,0,0
+8,Nunavut,NU,Territory,Iqaluit,1,36858,0,0
+9,Ontario,ON,Province,Toronto,1,14223942,1,1
+10,Prince Edward Island,PE,Province,Charlottetown,1,154331,0,0
+11,Quebec,QC,Province,Quebec City,1,8501833,1,2
+12,Saskatchewan,SK,Province,Regina,1,1132505,0,0
+13,Yukon,YT,Territory,Whitehorse,1,40232,0,0

@@ -1,0 +1,57 @@
+us_id,us_name,us_abbr,type,capital,region_id,population_estimate,have_visited,visit_order
+1,Alabama,AL,State,Montgomery,2,5108468,1,47
+2,Alaska,AK,State,Juneau,2,733406,0,0
+3,American Samoa,AS,Territory,Pago Pago,2,49710,0,0
+4,Arizona,AZ,State,Phoenix,2,7431344,1,22
+5,Arkansas,AK,State,Little Rock,2,3067732,1,18
+6,California,CA,State,Sacramento,2,38965193,1,33
+7,Colorado,CO,State,Denver,2,5877610,1,43
+8,Connecticut,CT,State,Hartford,2,3617176,1,31
+9,Delaware,DE,State,Dover,2,1031890,1,32
+10,District of Colombia,DC,Federal district,Washington,2,678972,1,12
+11,Florida,FL,State,Tallahassee,2,22610726,1,5
+12,Georgia,GA,State,Atlanta,2,11029227,1,23
+13,Guam,GU,Territory,Hagåtña,2,153836,0,0
+14,Hawaii,HA,State,Honolulu,2,1435138,1,9
+15,Idaho,ID,State,Boise,2,1964726,1,38
+16,Illinois,IL,State,Springfield,2,12549689,1,4
+17,Indiana,IN,State,Indianapolis,2,6862199,1,3
+18,Iowa,IA,State,Des Moines,2,3207004,1,46
+19,Kansas,KS,State,Tokeka,2,2940546,1,20
+20,Kentucky,KY,State,Frankfort,2,4526154,1,6
+21,Louisiana,LA,State,Baton Rouge,2,4573749,1,49
+22,Maine,ME,State,Augusta,2,1395722,1,28
+23,Maryland,MD,State,Annapolis,2,6180253,1,11
+24,Massachusetts,MA,State,Boston,2,7001399,1,29
+25,Michigan,MI,State,Lansing,2,10037261,1,1
+26,Minnesota,MN,State,Saint Paul,2,5737915,1,35
+27,Mississippi,MS,State,Jackson,2,2939690,1,48
+28,Missouri,MO,State,Jefferson City,2,6196156,1,21
+29,Montana,MT,State,Helena,2,1132812,1,37
+30,Nebraska,NE,State,Lincoln,2,1978379,1,44
+31,Nevada,NV,State,Carson City,2,3194176,1,34
+32,New Hampshire,NH,State,Concord,2,1402054,1,27
+33,New Jersey,NJ,State,Trenton,2,9290841,1,17
+34,New Mexico,NM,State,Santa Fe,2,2114371,0,0
+35,New York,NY,State,Albany,2,19571216,1,16
+36,North Carolina,NC,State,Raleigh,2,10835491,1,8
+37,North Dakata,ND,State,Bismarck,2,783926,1,36
+38,Northern Mariana Islands,MP,Territory,Saipan,2,47329,0,0
+39,Ohio,OH,State,Columbus,2,11785935,1,2
+40,Oklahoma,OK,State,Oklahoma City,2,4053824,1,19
+41,Oregon,OR,State,Salem,2,4233358,1,41
+42,Pennsylvania,PA,State,Harrisburg,2,12961683,1,10
+43,Puerto Rico,PR,Territory,San Juan,2,3205691,1,50
+44,Rhode Island,RI,State,Providence,2,1095962,1,30
+45,South Carolina,SC,State,Columbia,2,5373555,1,25
+46,South Dakota,SD,State,Pierre,2,919318,1,45
+47,Tennessee,TN,State,Nashville,2,7126489,1,7
+48,Texas,TX,State,Austin,2,30503301,1,14
+49,US Virgin Islands,VI,Territory,Charlotte Amalie,2,87146,0,0
+50,Utah,UT,State,Salt Lake City,2,3417734,1,42
+51,Vermont,VT,State,Montpelier,2,647464,1,26
+52,Virginia,VA,State,Richmond,2,8715698,1,13
+53,Washington,WA,State,Olympia,2,7812880,1,40
+54,West Virgina,WV,State,Charleston,2,1770071,1,15
+55,Wisconsin,WI,State,Madison,2,5910955,1,24
+56,Wyoming,WY,State,Cheyenne,2,584057,1,39

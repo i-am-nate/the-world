@@ -1,0 +1,338 @@
+name,type,population_estimate
+Asia,Continent,4560667108
+China,UN country,1411750000
+India,UN country,1392329000
+Africa,Continent,1275920972
+Europe,Continent,747636045
+North America,Continent,592296233
+South America,Continent,434254119
+United States,UN country,335893238
+Indonesia,UN country,279118866
+Pakistan,UN country,241499431
+Nigeria,UN country,216783400
+Brazil,UN country,203062512
+Bangladesh,UN country,169828911
+Russia,UN country,146424729
+Mexico,UN country,129406736
+Japan,UN country,124310000
+Philippines,UN country,112892781
+Ethiopia,UN country,107334000
+Egypt,UN country,104462545
+Vietnam,UN country,100000000
+Democratic Republic of the Congo,UN country,95370000
+Türkiye,UN country,85279553
+Germany,UN country,84607016
+Iran,UN country,84038000
+Thailand,UN country,68263022
+France,UN country,68221000
+United Kingdom,UN country,67026292
+South Africa,UN country,62027503
+Tanzania,UN country,61741120
+Italy,UN country,58776233
+Myanmar,UN country,55770232
+Colombia,UN country,52215503
+Kenya,UN country,51526000
+South Korea,UN country,51439038
+Spain,UN country,48345223
+Argentina,UN country,46654581
+Oceania,Continent,45857655
+Uganda,UN country,45562000
+Algeria,UN country,45400000
+Iraq,UN country,43324000
+Sudan,UN country,41984500
+Ukraine,UN country,41130432
+California,State,38965193
+Canada,UN country,38954600
+Poland,UN country,37667000
+Morocco,UN country,37022000
+Uzbekistan,UN country,36599764
+Afghanistan,UN country,34262840
+Peru,UN country,33396698
+Malaysia,UN country,33379500
+Angola,UN country,33086278
+Mozambique,UN country,32419747
+Saudi Arabia,UN country,32175224
+Yemen,UN country,31888698
+Ghana,UN country,30832019
+Texas,State,30503301
+Côte d'Ivire,UN country,29389150
+Nepal,UN country,29164578
+Venezuela,UN country,28302000
+Cameroon,UN country,28088845
+Madagascar,UN country,26923353
+Australia,UN country,26461912
+North Korea,UN country,25660000
+Niger,UN country,25369415
+Taiwan,De facto autonomy,23399654
+Syria,UN country,22923000
+Florida,State,22610726
+Mali,UN country,22395489
+Burkina Faso,UN country,22185654
+Sri Lanka,UN country,22037000
+Malawi,UN country,21507723
+Kazakhstan,UN country,20000000
+Chile,UN country,19960889
+Zambia,UN country,19610769
+New York,State,19571216
+Romania,UN country,19051562
+Senegal,UN country,18275743
+Somalia,UN country,18143379
+Guatemala,UN country,17602431
+Netherlands,UN country,17590000
+Chad,UN country,17414717
+Cambodia,UN country,17091464
+Ecuador,UN country,16938986
+Zimbabwe,UN country,15178979
+Ontario,Province,14223942
+Guinea,UN country,13261638
+South Sudan,UN country,13249924
+Rwanda,UN country,13246394
+Pennsylvania,State,12961683
+Burundi,UN country,12837740
+Benin,UN country,12606998
+Illinois,State,12549689
+Bolivia,UN country,12006031
+Tunisia,UN country,11850232
+Belgium,UN country,11801722
+Ohio,State,11785935
+Papua New Guinea,UN country,11781559
+Haiti,UN country,11743017
+Jordan,UN country,11302000
+Cuba,UN country,11089511
+Georgia,State,11029227
+Czechia,UN country,10882235
+North Carolina,State,10835491
+Dominican Republic,UN country,10760028
+Sweden,UN country,10558012
+Portugal,UN country,10467366
+Greece,UN country,10413982
+Azerbaijan,UN country,10151517
+Tajikistan,UN country,10077600
+Michigan,State,10037261
+Israel,UN country,9827000
+Honduras,UN country,9745149
+Hungary,UN country,9597085
+New Jersey,State,9290841
+United Arab Emirates,UN country,9282410
+Belarus,UN country,9200617
+Austria,UN country,9154514
+Switzerland,UN country,8931306
+Virginia,State,8715698
+Quebec,Province,8501833
+Sierra Leone,UN country,8494260
+Togo,UN country,8095498
+Washington,State,7812880
+Hong Kong,De facto autonomy,7498100
+Laos,UN country,7443000
+Arizona,State,7431344
+Tennessee,State,7126489
+Kyrgyzstan,UN country,7100000
+Turkmenistan,UN country,7057841
+Massachusetts,State,7001399
+Libya,UN country,6931061
+El Salvador,UN country,6884888
+Indiana,State,6862199
+Nicaragua,UN country,6733763
+Serbia,UN country,6641197
+Bulgaria,UN country,6447710
+Missouri,State,6196156
+Maryland,State,6180253
+Paraguay,UN country,6109644
+Republic of the Congo,UN country,6106869
+Denmark,UN country,5959464
+Singapore,UN country,5917600
+Wisconsin,State,5910955
+Colorado,State,5877610
+Somaliland,De facto autonomy,5741086
+Minnesota,State,5737915
+Central African Republic,UN country,5633412
+Finland,UN country,5572545
+Norway,UN country,5533582
+Lebanon,UN country,5490000
+Palestine,De facto autonomy,5483450
+Slovakia,UN country,5426468
+South Carolina,State,5373555
+Ireland,UN country,5281600
+Costa Rica,UN country,5262225
+Liberia,UN country,5248621
+New Zealand,UN country,5223100
+Oman,UN country,5113071
+Alabama,State,5108468
+British Columbia,Province,5000879
+Kuwait,UN country,4670713
+Louisiana,State,4573749
+Kentucky,State,4526154
+Mauritania,UN country,4475683
+Panama,UN country,4337406
+Alberta,Province,4262635
+Oregon,State,4233358
+Oklahoma,State,4053824
+Croatia,UN country,3855641
+Eritrea,UN country,3748902
+Georgia,UN country,3736400
+Connecticut,State,3617176
+Mongolia,UN country,3457548
+Uruguay,UN country,3444263
+Utah,State,3417734
+Bosnia and Herzegovina,UN country,3277082
+Iowa,State,3207004
+Puerto Rico (US),External subregion,3205691
+Nevada,State,3194176
+Arkansas,State,3067732
+Armenia,UN country,2981200
+Kansas,State,2940546
+Mississippi,State,2939690
+Lithuania,UN country,2869660
+Jamaica,UN country,2825544
+Albania,UN country,2761785
+Qatar,UN country,2656032
+Namibia,UN country,2641857
+Moldova,UN country,2512758
+The Gambia,UN country,2417471
+Botswana,UN country,2410338
+Lesotho,UN country,2306000
+Gabon,UN country,2233272
+Canary Islands (ES),External subregion,2175952
+Slovenia,UN country,2120937
+New Mexico,State,2114371
+Nebraska,State,1978379
+Idaho,State,1964726
+Latvia,UN country,1874700
+North Macedonia,UN country,1832696
+Guinea-Bissau,UN country,1781308
+West Virgina,State,1770071
+Kosovo,UN country,1762220
+Bahrain,UN country,1577059
+Equatorial Guinea,UN country,1558160
+Hawaii,State,1435138
+New Hampshire,State,1402054
+Maine,State,1395722
+Estonia,UN country,1365884
+Trinidad and Tobago,UN country,1365805
+Timor-Leste,UN country,1354662
+Manitoba,Province,1342153
+Mauritius,UN country,1261041
+Eswatini,UN country,1223362
+Montana,State,1132812
+Saskatchewan,Province,1132505
+Rhode Island,State,1095962
+Delaware,State,1031890
+Djibouti,UN country,1001454
+Nova Scotia,Province,969383
+South Dakota,State,919318
+Cyprus,UN country,918100
+Fiji,UN country,893468
+Réunion (FR),External subregion,873102
+North Dakata,State,783926
+New Brunswick,Province,775610
+Bhutan,UN country,770276
+Comoros,UN country,758316
+Guyana,UN country,743699
+Solomon Islands,UN country,734887
+Alaska,State,733406
+Guadeloupe (FR),External subregion,691931
+Macau,De facto autonomy,681300
+District of Colombia,Federal district,678972
+Luxembourg,UN country,660809
+Vermont,State,647464
+Nueva Esparta (VE),External subregion,617078
+Montenegro,UN country,616695
+Suriname,UN country,616500
+Western Sahara (MA),External subregion,587259
+Wyoming,State,584057
+Malta,UN country,519562
+Newfoundland and Labrador,Province,510550
+Cabo Verde,UN country,491233
+Brunei,UN country,445400
+Belize,UN country,441471
+Bahamas,UN country,397360
+Iceland,UN country,396960
+Northern Cyprus,De facto autonomy,382836
+Maldives,UN country,382751
+Transnistria,De facto autonomy,360938
+Martinique (FR),External subregion,360749
+Vanuatu,UN country,301295
+French Guiana (FR),External subregion,301099
+French Polynesia (FR),De facto autonomy,279890
+New Caledonia (FR),De facto autonomy,268510
+Barbados,UN country,267800
+Mayotte (FR),External subregion,256518
+Abkhazia,De facto autonomy,244236
+Azores (PT),External subregion,236440
+Bougainville (PG),De facto autonomy,234280
+São Tomé and Principe,UN country,214610
+Samoa,UN country,205557
+St Lucia,UN country,178696
+Madeira (PT),External subregion,156255
+Prince Edward Island,Province,154331
+Guam (US),External subregion,153836
+Curaçao (NL),De facto autonomy,148925
+Kiribati,UN country,120740
+Grenada,UN country,112579
+St Vincent and the Grenadines,UN country,110872
+Aruba (NL),De facto autonomy,106739
+Micronesia,UN country,105754
+Jersey (UK),De facto autonomy,103267
+Antigua and Barbuda,UN country,100772
+Seychelles,UN country,100447
+Tonga,UN country,100179
+US Virgin Islands (US),External subregion,87146
+Ceuta (ES),External subregion,84829
+Melilla (ES),External subregion,84689
+Isle of Man (UK),De facto autonomy,84069
+Andorra,UN country,83523
+Cayman Islands (UK),External subregion,71105
+Dominica,UN country,67408
+Guernsey (UK),De facto autonomy,64234
+Bermuda (UK),External subregion,64055
+San Andrés and Providencia (CO),External subregion,61898
+Greenland (DK),De facto autonomy,56865
+South Ossetia,De facto autonomy,56520
+Faroe Islands (DK),De facto autonomy,54738
+American Samoa (US),External subregion,49710
+Northern Mariana Islands (US),External subregion,47329
+St Kitts and Nevis,UN country,47195
+Turks and Caicos (UK),External subregion,46131
+Sint Maarten (NL),De facto autonomy,42938
+Socotra Archipelago (YE),External subregion,42842
+Marshall Islands,UN country,42418
+Northwest Territories,Territory,41070
+Yukon,Territory,40232
+Liechtenstein,UN country,39724
+Monaco,UN country,39050
+Nunavut,Territory,36858
+Gibralter (UK),External subregion,34003
+San Marino,UN country,33889
+Galápagos Islands (EC),External subregion,33042
+Saint Martin (FR),External subregion,32358
+British Virgin Islands (UK),External subregion,31538
+Åland (FI),De facto autonomy,30530
+Bonaire (NL),External subregion,24090
+Palau,UN country,16733
+Anguilla (UK),External subregion,15701
+Cook Islands (NZ),De facto autonomy,15040
+Nauru,UN country,11680
+Wallis and Futuna (FR),External subregion,11369
+Tuvulu,UN country,10679
+Saint Barthélemy (FR),De facto autonomy,10585
+Easter Island (CL),External subregion,7750
+Pelagie Islands (IT),External subregion,6556
+Saint Pierre and Miquelon (FR),External subregion,6092
+"Saint Helena, Ascension, and Tristan da Cunha (UK)",External subregion,5651
+Montserrat (UK),External subregion,4433
+Falkland Islands (UK),External subregion,3662
+Sint Eustatius (NL),External subregion,3293
+Antarctica,Continent,3200
+Antarctica (proper),External subregion,3200
+Norfolk Island (AU),External subregion,2188
+Saba (NL),External subregion,2035
+Christmas Island (AU),External subregion,1692
+Niue (NZ),De facto autonomy,1689
+Tokelau (NZ),External subregion,1647
+Vatican City,UN country,764
+Cocos (Keeling) Islands (AU),External subregion,593
+Svalbard (NO),External subregion,300
+French Southern & Antarctic Lands (FR),External subregion,220
+Pitcairn Islands (UK),External subregion,47
+South Georgia and the South Sandwich Islands (UK),External subregion,30
+Heard Island and McDonald Islands (AU),External subregion,0
