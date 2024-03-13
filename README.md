@@ -3,7 +3,7 @@
 ## Constructing a database of the entire world using MySQL in PopSQL and an interactive storyboard of dashboards in Tableau
 
 ### About
-A database of every global region and various subregions created entirely in MySQL within PopSQL (1204 lines) and a visualized within Tableau. See the fully interactive storyboard of dashboard maps [hosted on Tableau Public](https://public.tableau.com/shared/BZWFTSTDP?:display_count=n&:origin=viz_share_link).
+A database of every global region and various subregions created entirely in MySQL within PopSQL (1204 lines) and a visualized within Tableau. See the fully interactive storyboard of dashboard maps [hosted on Tableau Public](https://public.tableau.com/views/TheWorld_17096671443220/TheWorld?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
 
 ### Overview
 I love geography and travelling. A while ago, I started keeping track in my Notes app on my iPhone every region on earth, some info about it, and if I'd visited it or not (and if so, when). I also want to collect a turtle from specifically every country, so if I've collected that or was recorded too.
@@ -19,3 +19,8 @@ I've included a data dictionary in this repository to explain what each variable
 You'll find the exported PopSQL 'the_world.sql' file as well as its equivelent RTF counterpart 'popsql_query.rtf' in the root of this repository.
 
 I wanted to visualize these regions, as well as add some additional layers of information suitable for visualization and have greater levels of region granularity. I first compliled population and area data and input these values into Google Sheets to export csvs. I landed on 4 dashboards which can be interacted with each in their own right on the Tableau storyboard. However, you can see static examples below of each of the four maps: the world, the US, Canada, and Michigan (my home state). Each of these maps allow user control over filtering to discover all sorts of insights.
+
+![Map of the World](https://github.com/i-am-nate/the-world/blob/main/tableau-photos/tw1.png)
+![Map of US](https://github.com/i-am-nate/the-world/blob/main/tableau-photos/tw2.png)
+![Map of Canada](https://github.com/i-am-nate/the-world/blob/main/tableau-photos/tw3.png)
+![Map of Michigan](https://github.com/i-am-nate/the-world/blob/main/tableau-photos/tw4.png)
