@@ -3,7 +3,7 @@
 ## Constructing a database of the entire world using MySQL in PopSQL and an interactive storyboard of dashboards in Tableau
 
 ### About
-A database of every global region and various subregions created entirely in MySQL within PopSQL (1204 lines) and a visualized within Tableau. See the fully interactive storyboard of dashboard maps [hosted on Tableau Public](https://public.tableau.com/views/TheWorld_17096671443220/TheWorld?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
+A database of every global region and various subregions created entirely in MySQL within PopSQL (1204 lines) and a visualized within Tableau. See the fully interactive storyboard of dashboard maps [hosted on Tableau Public](https://public.tableau.com/app/profile/nate.raese/viz/TheWorld_17096671443220/TheWorld).
 
 ### Overview
 I love geography and travelling. A while ago, I started keeping track in my Notes app on my iPhone every region on earth, some info about it, and if I'd visited it or not (and if so, when). I also want to collect a turtle from specifically every country, so if I've collected that or was recorded too.
