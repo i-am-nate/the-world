@@ -1,9 +1,9 @@
 # the-world
 
-## Constructing a database of the entire world using only MySQL within PopSQL
+## Constructing a database of the entire world using MySQL in PopSQL and an interactive storyboard of dashboards in Tableau
 
 ### About
-A database of every global region and various subregions created entirely in MySQL within PopSQL (1204 lines).
+A database of every global region and various subregions created entirely in MySQL within PopSQL (1204 lines) and a visualized within Tableau. See the fully interactive storyboard of dashboard maps hosted on Tableau Public.
 
 ### Overview
 I love geography and travelling. A while ago, I started keeping track in my Notes app on my iPhone every region on earth, some info about it, and if I'd visited it or not (and if so, when). I also want to collect a turtle from specifically every country, so if I've collected that or was recorded too.
@@ -16,4 +16,6 @@ The 4 tables and the 4 views are available as csvs within the csvs folder in thi
 
 I've included a data dictionary in this repository to explain what each variable observes. I certainly could have added infitite more features (such as land area, average age, average number of sunny days per year, year establisted, etc.), and maybe I'll continue adding to this until it's a greater and greater one-stop-shop resource for any given geographical region on earth.
 
-Finally, you'll find the exported PopSQL 'the_world.sql' file as well as its equivelent RTF counterpart 'popsql_query.rtf' in the root of this repository.
+You'll find the exported PopSQL 'the_world.sql' file as well as its equivelent RTF counterpart 'popsql_query.rtf' in the root of this repository.
+
+I wanted to visualize these regions, as well as add some additional layers of information suitable for visualization and have greater levels of region granularity. I first compliled population and area data and input these values into Google Sheets to export csvs. I landed on 4 dashboards which can be interacted with each in their own right on the Tableau storyboard. However, you can see static examples below of each of the four maps: the world, the US, Canada, and Michigan (my home state). Each of these maps allow user control over filtering to discover all sorts of insights.
